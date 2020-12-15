@@ -1,0 +1,4 @@
+/home/mmachin/projects/Computer_Simulator/AcceleratedCpp/Chapter_9/build/CMakeFiles/edit_cache.dir
+/home/mmachin/projects/Computer_Simulator/AcceleratedCpp/Chapter_9/build/CMakeFiles/rebuild_cache.dir
+/home/mmachin/projects/Computer_Simulator/AcceleratedCpp/Chapter_9/build/CMakeFiles/MyExe.dir
+/home/mmachin/projects/Computer_Simulator/AcceleratedCpp/Chapter_9/build/CMakeFiles/Notas.dir

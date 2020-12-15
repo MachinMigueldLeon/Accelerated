@@ -1,0 +1,30 @@
+@startuml
+
+
+
+
+
+/' Objects '/
+
+struct Alumno {
+	+final : double
+	+midterm : double
+	+name : std::string
+	+homework : std::vector<double>
+}
+
+
+
+
+
+/' Inheritance relationships '/
+
+
+
+
+/' Aggregation relationships '/
+
+
+
+
+@enduml

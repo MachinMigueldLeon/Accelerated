@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libNotas.so -o libNotas.so CMakeFiles/Notas.dir/src/grade.cpp.o CMakeFiles/Notas.dir/src/median.cpp.o CMakeFiles/Notas.dir/src/student_info.cpp.o 

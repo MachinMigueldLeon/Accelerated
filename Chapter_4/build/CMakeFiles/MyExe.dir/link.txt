@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -rdynamic CMakeFiles/MyExe.dir/app/main.cpp.o -o MyExe  -Wl,-rpath,/home/mmachin/projects/Computer_Simulator/AcceleratedCpp/Chapter_4/build libNotas.so 
